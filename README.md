@@ -10,6 +10,12 @@ Get Shorten URL
 
 - Node js and Express js is used for server Routing.
 
+- mongoDB as Database.
+
+- ViewJS for static pages.
+
+- MVC (Model , view , controller) Format maintained.
+
 - user must have to signup and login first in order to use service.
 
 - to run project on local host :
